@@ -1,0 +1,13 @@
+.footer {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translate(-50%);
+	font-size: 20px;
+	text-align: center;
+}
+
+.footer span {
+	font-weight: bold;
+	color: cyan;
+}

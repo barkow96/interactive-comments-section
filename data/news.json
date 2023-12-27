@@ -1,0 +1,8 @@
+{
+	"news": [
+		{ "id": 1, "title": "Title_1", "content": "Content_1", "img": "Image_1" },
+		{ "id": 2, "title": "Title_3", "content": "Content_2", "img": "Image_2" },
+		{ "id": 3, "title": "Title_4", "content": "Content_3", "img": "Image_3" },
+		{ "id": 4, "title": "Title_4", "content": "Content_4", "img": "Image_4" }
+	]
+}
