@@ -5,6 +5,7 @@ export default function HomePage() {
 	return (
 		<>
 			<h2>The Home Page</h2>
+			<NewsTiles />
 		</>
 	);
 }
